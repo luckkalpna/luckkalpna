@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @luckkalpna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- HELLO, Guys! 👋 <hr>
+I am Kalpna. I am worked in oyebusy company.
+- 👀 I’m interested in reaidng and learning.
+- 🌱 I’m currently learning HTML and CSS.
+- 💞️ I’m looking to collaborate on github.
+- 📫 How to reach me @Linkedin, @Telegram, @Whatsapp, @Facebook, @Instagram.
 
 <!---
 luckkalpna/luckkalpna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
