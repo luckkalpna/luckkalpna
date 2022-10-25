@@ -3,7 +3,7 @@ I am Kalpna Singh. I am worked in oyebusy company.
 - 👀 I’m interested in reading and learning.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on github.
-- 📫 How to reach me @Linkedin, @Telegram, @Whatsapp, @Facebook, @Instagram.
+- 📫 How to reach me luckkalpna@gmail.com
 
 <!---
 luckkalpna/luckkalpna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
