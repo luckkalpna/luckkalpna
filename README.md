@@ -1,5 +1,5 @@
 - Hello, Guys! 👋 <hr>
-I am Kalpna Singh. I am worked in oyebusy company.
+I am Kalpna Singh. I am worked in Oyebusy company.
 - 👀 I’m interested in reading and learning.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on github.
