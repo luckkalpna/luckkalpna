@@ -1,9 +1,9 @@
 - Hello, Guys! 👋 <hr>
-     I am Kalpna Singh. I am worked in Oyebusy company.
+     I am Kalpna Singh.
 - 👀 I’m interested in reading and learning.
-     I just Love coading.
+     I Love coding.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on github.
+- 💞️ I’m looking to collaborate on Git Hub.
 - 📫 How to reach me luckkalpna@gmail.com
 
 <!---
