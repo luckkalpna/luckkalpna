@@ -1,8 +1,8 @@
 - Hello, Guys! 👋 <hr>
-     I am Kalpna Singh.
-- 👀 I’m interested in reading and learning.
+     I am Kalpana.
+- 👀 I’m interested in reading, learning, & listening.
      I Love coding.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Python programming.
 - 💞️ I’m looking to collaborate on Git Hub.
 - 📫 How to reach me luckkalpna@gmail.com
 
