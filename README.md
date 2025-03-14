@@ -1,6 +1,6 @@
 - Hello, Guys! 👋 <hr>
      I am Kalpana.
-- 👀 I’m interested in reading, learning, & listening.
+- 👀 I’m interested in reading, learning, & listening.<br>
      I Love coding.
 - 🌱 I’m currently learning Python programming.
 - 💞️ I’m looking to collaborate on Git Hub.
